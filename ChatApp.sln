@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp", "ChatApp\ChatApp.csproj", "{839E9E8A-72EF-43AF-91E4-6B883721672F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Release|iPhone.Build.0 = Release|iPhone
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{839E9E8A-72EF-43AF-91E4-6B883721672F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
